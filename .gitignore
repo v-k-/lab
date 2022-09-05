@@ -1,3 +1,6 @@
+
+.DS_Store 
+# abaixo o template do git
 # Logs
 logs
 *.log
